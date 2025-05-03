@@ -2,7 +2,7 @@
 
 **Undergraduate Researcher | B.Tech – Electronics and Communication Engineering (Batch 2028)**  
 Bharati Vidyapeeth's College of Engineering, New Delhi  
-Email: anandambastha.official@gmail.com | GitHub: github.com/anandambastha | LinkedIn: linkedin.com/in/anandambastha
+Email: anandambastha72@gmail.com | GitHub: github.com/Anand-Ambastha | LinkedIn: linkedin.com/in/anand-kumar05
 
 ---
 
