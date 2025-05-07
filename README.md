@@ -63,8 +63,8 @@ I have authored **three research papers**—two published, one accepted for pres
 
 ## Contact
 
-- **Email:** anandambastha.official@gmail.com  
-- **LinkedIn:** [linkedin.com/in/anandambastha](https://www.linkedin.com/in/anand-kumar05)  
+- **Email:** anandambastha72@gmail.com  
+- **LinkedIn:** [linkedin.com/in/anandkumar](https://www.linkedin.com/in/anand-kumar05)  
 - **GitHub:** [github.com/anandambastha](https://github.com/Anand-Ambastha)
 <!---
 Anand-Ambastha/Anand-Ambastha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
