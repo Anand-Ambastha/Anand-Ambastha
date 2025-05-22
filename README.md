@@ -18,8 +18,9 @@ I have authored **three research papers**—two published, one accepted for pres
 
 - **Total Papers Authored:** 3  
   - **Published:** 2  
-  - **Accepted:** 1  
-  - **Under Development:** 1 (Focused on QKD-RF-DWDM integration)
+  - **Accepted:** 3
+  - **Under Peer Review:** 1
+  - **Under Development:** 1
 - Topics covered include Quantum Cryptography, AI-based system optimization, and secure communication protocols.
 - Experience in IEEE-format writing, technical documentation, and academic presentations.
 
