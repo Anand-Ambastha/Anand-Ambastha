@@ -16,9 +16,8 @@ I have authored **three research papers**—two published, one accepted for pres
 
 ## Research Contributions
 
-- **Total Papers Authored:** 3  
-  - **Published:** 2  
-  - **Accepted:** 3
+- **Total Papers Authored:** 6    
+  - **Accepted:** 5
   - **Under Peer Review:** 1
   - **Under Development:** 1
 - Topics covered include Quantum Cryptography, AI-based system optimization, and secure communication protocols.
@@ -45,7 +44,8 @@ I have authored **three research papers**—two published, one accepted for pres
 
 ## Areas of Interest
 
-- Machine Learning and Deep Learning  
+- Machine Learning and Deep Learning
+- Natural Language Processing(NLP) and Computer Vision(CV)
 - Quantum Key Distribution (QKD) and Secure Communication  
 - Optical & RF Communication Systems  
 - Applied Mathematics and Signal Processing  
