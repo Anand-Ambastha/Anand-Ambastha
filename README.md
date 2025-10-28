@@ -8,7 +8,7 @@ Email: anandambastha72@gmail.com | GitHub: github.com/Anand-Ambastha | LinkedIn:
 
 ## Profile Summary
 
-I am a first-year B.Tech student in Electronics and Communication Engineering with a focused academic interest in the intersection of **Machine Learning** and **Communication Systems**. My current trajectory blends formal education in electronics with active involvement in applied research, particularly in areas involving AI integration, quantum communication, and system optimization.
+I am a third semester B.Tech student in Electronics and Communication Engineering with a focused academic interest in the intersection of **Machine Learning** and **Communication Systems**. My current trajectory blends formal education in electronics with active involvement in applied research, particularly in areas involving AI integration, quantum communication, and system optimization.
 
 I have authored **three research papers**—two published, one accepted for presentation—and am currently working on my fourth manuscript. Beyond academic research, I am systematically building expertise in **Machine Learning**, **Deep Learning**, and **Exploratory Data Analysis**, while simultaneously strengthening my algorithmic skills through **Data Structures and Algorithms in C++**.
 
