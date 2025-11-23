@@ -1,7 +1,7 @@
 # Anand Ambastha (Officially Anand Kumar)
 
 **Undergraduate Researcher | B.Tech – Electronics and Communication Engineering (Batch 2028)**  
-Bharati Vidyapeeth's College of Engineering, New Delhi  
+Guru Gobind Singh Indraprastha University, New Delhi  
 Email: anandambastha72@gmail.com | GitHub: github.com/Anand-Ambastha | LinkedIn: linkedin.com/in/anand-kumar05
 
 ---
