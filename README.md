@@ -475,6 +475,8 @@ All sites modeled with **elevation-based QBER filtering** and **seasonal atmosph
 ```
 
 ## `> contact`
+
+```python
 contact = {
     "email"       : "anandambastha72@gmail.com",
     "alt_email"   : "anand.kumar-coend@bvp.edu.in",
@@ -488,6 +490,7 @@ contact = {
         "PhD program discussions (post 2028)",
     ],
 }
+```
 📨 Open to research collaborations, manuscript co-authorship, and internship discussions.
 �
 
