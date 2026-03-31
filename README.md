@@ -1,26 +1,17 @@
-<table>
-<tr>
-<td width="70%">
+<h2 align="center">Anand Ambastha (Anand Kumar)</h2>
 
-<h1>Anand Ambastha</h1>
+<p align="center">
+<b>Undergraduate Researcher | Quantum Communication • Optical Systems • AI for Physical Modeling</b>
+</p>
 
-<b>Undergraduate Researcher</b>  
-Quantum Communication • Optical Systems • Physics-Informed AI  
+<p align="center">
+<img src="profile.jpg" width="130" style="border-radius: 50%;" />
+</p>
 
-📧 anandambastha72@gmail.com  
-🔗 https://linkedin.com/in/anand-kumar05  
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="profile.jpg" width="150" style="border-radius: 50%;" />
-
-</td>
-</tr>
-</table>
-
----
+<p align="center">
+📧 anandambastha72@gmail.com • 
+🔗 <a href="https://linkedin.com/in/anand-kumar05">LinkedIn</a>
+</p>
 
 ---
 
@@ -135,6 +126,13 @@ LaTeX (IEEE) • Git • GitHub
 ## Contact
 
 - Email: anandambastha72@gmail.com  
+- LinkedIn: https://linkedin.com/in/anand-kumar05  
+
+---
+
+<p align="center">
+<i>Focused on advancing communication system modeling beyond idealized assumptions.</i>
+</p>
 - LinkedIn: https://linkedin.com/in/anand-kumar05  
 
 ---
