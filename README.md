@@ -474,18 +474,6 @@ All sites modeled with **elevation-based QBER filtering** and **seasonal atmosph
 └──────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## `> github_stats`
-
-<div align="center">
-
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand-kumar05&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=22c55e&text_color=e2e8f0&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anand-kumar05&layout=compact&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=anand-kumar05&theme=transparent
-
 > contact
 contact = {
     "email"       : "anandambastha72@gmail.com",
