@@ -69,7 +69,7 @@ Bharati Vidyapeeth’s College of Engineering | Jul 2025 – Present
 ## Selected Work
 
 **AI-Driven Paddy Microclimate Stress Classifier**  
-- BiLSTM–LSTM architecture
+- BiLSTM–LSTM architecture  
 - LOLO-based geographic generalization  
 
 **VeriSure AI — Document Reasoning System**  
