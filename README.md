@@ -1,25 +1,20 @@
-<table>
-<tr>
-<td width="28%" align="center">
-  <img src="profile.png" width="150" style="border-radius: 50%;" />
-</td>
-<td><h2>Anand Ambastha (Anand Kumar)</h2>
-<b>Undergraduate Researcher | Quantum Communication • Optical Systems • AI for Physical Modeling</b>B.Tech — Electronics & Communication Engineering
-Guru Gobind Singh Indraprastha University, New Delhi
-
-📧 anandambastha72@gmail.com
-🔗 https://linkedin.com/in/anand-kumar05
-
-</td>
-</tr>
-</table>
+<h2 align="center">Anand Ambastha (Anand Kumar)</h2>
+<p align="center">
+<b>Undergraduate Researcher | Quantum Communication • Optical Systems • AI for Physical Modeling</b>
+</p><p align="center">
+B.Tech — Electronics & Communication Engineering  
+Guru Gobind Singh Indraprastha University, New Delhi  
+</p><p align="center">
+📧 anandambastha72@gmail.com • 
+🔗 <a href="https://linkedin.com/in/anand-kumar05">LinkedIn</a>
+</p>
 ---
 
 Research Statement
 
 I work on realistic modeling of communication systems under physical and environmental constraints, with a focus on quantum and optical channels.
 
-Most existing models rely on static assumptions and idealized conditions. My work challenges this by introducing time-varying, data-driven, and physically consistent formulations that better reflect real-world system behavior.
+Most existing models rely on static assumptions and idealized conditions. My work introduces time-varying, data-driven, and physically consistent formulations that better reflect real-world system behavior.
 
 
 ---
@@ -37,7 +32,8 @@ Optical propagation analysis (absorption, scattering, turbulence-induced fading)
 Time-dependent stochastic channel representation
 
 
-Research Objective: Quantify the impact of atmospheric variability on QKD performance metrics such as QBER, SKR, and link feasibility, enabling more realistic system design.
+Objective:
+Quantify the impact of atmospheric variability on QBER, SKR, and link feasibility for realistic system design.
 
 
 ---
@@ -47,11 +43,11 @@ Research Experience
 Undergraduate Researcher
 Bharati Vidyapeeth’s College of Engineering | Jul 2025 – Present
 
-Developed BB84-based Alice–Bob–Eve system models for Free-Space Optical (FSO) channels
+Developed BB84-based Alice–Bob–Eve system models over Free-Space Optical (FSO) channels
 
 Simulated end-to-end secure key generation under channel loss and noise
 
-Investigating ML-assisted adaptive RF–FSO switching for dynamic link optimization
+Investigating ML-assisted adaptive RF–FSO switching
 
 
 
@@ -66,6 +62,7 @@ https://doi.org/10.1007/s41870-025-02860-y
 
 Book Chapter — Quantum Communication & QKD
 CRC Press (Taylor & Francis)
+
 
 Summary
 
@@ -83,26 +80,26 @@ Selected Work
 
 AI-Driven Paddy Microclimate Stress Classifier
 
-Hierarchical BiLSTM–LSTM architecture
+BiLSTM–LSTM architecture
 
 LOLO-based geographic generalization
 
 
 VeriSure AI — Document Reasoning System
 
-Dense vector retrieval using FAISS + transformer embeddings
+FAISS-based semantic retrieval + transformer embeddings
 
-Structured inference pipeline for policy reasoning
+Structured inference pipeline
 
 
 VibeSense — Visual Intelligence Pipeline
 
-Multi-stage pipeline using YOLOv8 + CLIP for semantic tagging
+YOLOv8 + CLIP for multi-stage visual tagging
 
 
 DeepSpeak — Personality Reconstruction System
 
-Multi-modal modeling integrating NLP, CV, and speech signals
+Multi-modal system (NLP, CV, speech)
 
 
 
@@ -110,7 +107,7 @@ Multi-modal modeling integrating NLP, CV, and speech signals
 
 Technical Expertise
 
-Programming & Systems
+Programming
 
 Python • C • C++
 
@@ -123,7 +120,7 @@ Communication & Simulation
 
 OptiSystem • OpenCV • FFmpeg
 
-Research Tools
+Research Workflow
 
 LaTeX (IEEE) • Git • GitHub
 
@@ -132,11 +129,11 @@ LaTeX (IEEE) • Git • GitHub
 
 Methodology
 
-Physics-informed modeling combined with data-driven approaches
+Physics-informed + data-driven modeling
 
-Emphasis on system-level validation and reproducibility
+System-level validation and reproducibility
 
-Focus on robustness under uncertainty and environmental variability
+Robustness under uncertainty and environmental variability
 
 
 
@@ -161,5 +158,5 @@ LinkedIn: https://linkedin.com/in/anand-kumar05
 ---
 
 <p align="center">
-  <i>Focused on advancing communication system modeling beyond idealized assumptions.</i>
+<i>Focused on advancing communication system modeling beyond idealized assumptions.</i>
 </p>
