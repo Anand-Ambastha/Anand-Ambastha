@@ -4,7 +4,7 @@
 <b>Undergraduate Researcher | Quantum Communication • Optical Systems • AI for Physical Modeling</b>
 </p>
 <p align="center">
-  <img src="profile.png" width="130" style="border-radius: 50%;" />
+  <img src="profile.jpg" width="130" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
