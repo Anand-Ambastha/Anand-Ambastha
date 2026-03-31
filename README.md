@@ -6,13 +6,13 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
+╔═══════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║     A N A N D   A M B A S T H A   ( A n a n d   K u m a r )        ║
+║     A N A N D   A M B A S T H A   ( A n a n d   K u m a r )          ║
 ║                                                                      ║
-║   Undergraduate Researcher  ·  B.Tech ECE  ·  GGSIPU  ·  2024–28   ║
+║   Undergraduate Researcher  ·  B.Tech ECE  ·  GGSIPU  ·  2024–28     ║
 ║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 ### Quantum Communication · Free-Space Optical Systems · AI for Physical Modeling
@@ -69,19 +69,19 @@ Published as first author in a **Q1 Scopus-indexed Springer journal** by my seco
 > A unified modeling framework for satellite-based QKD under realistic atmospheric conditions
 
 ```
-  ┌───────────────────────────────────────────────────────────────────┐
+  ┌─────────────────────────────────────────────────────────┐
   │                                                                   │
-  │   ERA5 Reanalysis Climate Data  (ECMWF)                          │
+  │   ERA5 Reanalysis Climate Data  (ECMWF)                           │
   │   temperature · humidity · wind · aerosol optical depth profiles  │
   │        │                                                          │
   │        ▼                                                          │
-  │   ┌──────────────────────────────────────────────────────┐        │
-  │   │           Optical Propagation Engine                 │        │
+  │   ┌──────────────────────────────────────────────┐        │
+  │   │           Optical Propagation Engine                  │        │
   │   │   ├── Molecular Absorption  (Beer-Lambert law)       │        │
   │   │   ├── Mie / Rayleigh Scattering                      │        │
   │   │   ├── Turbulence-Induced Fading  (Cn² profiles)      │        │
   │   │   └── Time-Varying Stochastic Channel Representation │        │
-  │   └──────────────────────────────────────────────────────┘        │
+  │   └────────────────────────────-─────────────────┘        │
   │        │                                                          │
   │        ▼                                                          │
   │   QKD Performance Layer                                           │
@@ -90,7 +90,7 @@ Published as first author in a **Q1 Scopus-indexed Springer journal** by my seco
   │   ├── Link Feasibility Windows                                    │
   │   └── Pass Visibility & Elevation Analysis                        │
   │                                                                   │
-  └───────────────────────────────────────────────────────────────────┘
+  └─────────────────────────────────────────────────────────┘
 ```
 
 **Research Question:** How does atmospheric variability quantitatively degrade QKD link performance — and how can adaptive ML-assisted systems compensate?
@@ -324,7 +324,7 @@ Python                    ██████████████████
 ## `> methodology`
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────-──────────────┐
 │  Research Principles                                             │
 │                                                                  │
 │  1.  Physics-Informed Modeling                                   │
@@ -345,7 +345,7 @@ Python                    ██████████████████
 │  5.  Geographic Generalization                                   │
 │      LOLO validation · India-specific ground station geometry    │
 │      zone-aware agroclimatic modeling                            │
-└──────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -460,21 +460,21 @@ All sites modeled with **elevation-based QBER filtering** and **seasonal atmosph
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  🔭  Vice President                                              │
-│      Optica Student Chapter, BVP  ·  2025–2026                  │
-│      Optica (formerly OSA) is the premier international          │
-│      society for optics and photonics research.                  │
-│                                                                  │
-│  🏆  Top 10 Finalist                                             │
-│      Business Blaster Expo                                       │
-│      Govt. of NCT of Delhi Entrepreneurship Expo  ·  2022        │
-│      Selected among top teams city-wide.                         │
-│                                                                  │
+│                                                                              │
+│  🔭  Vice President                                                          │
+│      Optica Student Chapter, BVP  ·  2025–2026                               │
+│      Optica (formerly OSA) is the premier international                      │
+│      society for optics and photonics research.                              │
+│                                                                              │
+│  🏆  Top 10 Finalist                                                         │
+│      Business Blaster Expo                                                   │
+│      Govt. of NCT of Delhi Entrepreneurship Expo  ·  2022                    │
+│      Selected among top teams city-wide.                                     │
+│                                                                              │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-> contact
+## '> contact'
 contact = {
     "email"       : "anandambastha72@gmail.com",
     "alt_email"   : "anand.kumar-coend@bvp.edu.in",
@@ -492,10 +492,10 @@ contact = {
 �
 
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "The goal is not to simulate a perfect channel.                ║
-║    The goal is to simulate the one that actually exists."        ║
-║                                                                  ║
+║                                                                              ║
+║   "The goal is not to simulate a perfect channel.                            ║
+║    The goal is to simulate the one that actually exists."                    ║
+║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════╝
 B.Tech ECE · GGSIPU · New Delhi · 2024–2028
 6 research works · Springer Q1 · CRC Press · Optica VP
