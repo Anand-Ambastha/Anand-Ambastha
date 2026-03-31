@@ -1,73 +1,165 @@
-# Anand Ambastha (Officially Anand Kumar)
+<table>
+<tr>
+<td width="28%" align="center">
+  <img src="profile.png" width="150" style="border-radius: 50%;" />
+</td>
+<td><h2>Anand Ambastha (Anand Kumar)</h2>
+<b>Undergraduate Researcher | Quantum Communication • Optical Systems • AI for Physical Modeling</b>B.Tech — Electronics & Communication Engineering
+Guru Gobind Singh Indraprastha University, New Delhi
 
-**Undergraduate Researcher | B.Tech – Electronics and Communication Engineering (Batch 2028)**  
-Guru Gobind Singh Indraprastha University, New Delhi  
-Email: anandambastha72@gmail.com | GitHub: github.com/Anand-Ambastha | LinkedIn: linkedin.com/in/anand-kumar05
+📧 anandambastha72@gmail.com
+🔗 https://linkedin.com/in/anand-kumar05
+
+</td>
+</tr>
+</table>
+---
+
+Research Statement
+
+I work on realistic modeling of communication systems under physical and environmental constraints, with a focus on quantum and optical channels.
+
+Most existing models rely on static assumptions and idealized conditions. My work challenges this by introducing time-varying, data-driven, and physically consistent formulations that better reflect real-world system behavior.
+
 
 ---
 
-## Profile Summary
+Current Work
 
-I am a third semester B.Tech student in Electronics and Communication Engineering with a focused academic interest in the intersection of **Machine Learning** and **Communication Systems**. My current trajectory blends formal education in electronics with active involvement in applied research, particularly in areas involving AI integration, quantum communication, and system optimization.
+Climatology-Aware Quantum Channel (CAQC)
 
-I have authored **three research papers**—two published, one accepted for presentation—and am currently working on my fourth manuscript. Beyond academic research, I am systematically building expertise in **Machine Learning**, **Deep Learning**, and **Exploratory Data Analysis**, while simultaneously strengthening my algorithmic skills through **Data Structures and Algorithms in C++**.
+A unified modeling framework for satellite-based Quantum Key Distribution (QKD):
 
----
+Integration of ERA5 atmospheric datasets into channel modeling
 
-## Research Contributions
+Optical propagation analysis (absorption, scattering, turbulence-induced fading)
 
-- **Total Papers Authored:** 6    
-  - **Accepted:** 5
-  - **Under Peer Review:** 1
-  - **Under Development:** 1
-- Topics covered include Quantum Cryptography, AI-based system optimization, and secure communication protocols.
-- Experience in IEEE-format writing, technical documentation, and academic presentations.
+Time-dependent stochastic channel representation
 
----
 
-## Technical Proficiencies
+Research Objective: Quantify the impact of atmospheric variability on QKD performance metrics such as QBER, SKR, and link feasibility, enabling more realistic system design.
 
-**Programming Languages:**  
-- C++ (Data Structures & Algorithms)  
-- Python (ML, EDA, DL - in progress)
-
-**ML/AI Tools (Learning Path):**  
-- NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib
-
-**Documentation & Collaboration:**  
-- LaTeX, MS Word (IEEE Templates), Git, GitHub
-
-**Soft Skills:**  
-- Technical writing, academic communication, research methodology
 
 ---
 
-## Areas of Interest
+Research Experience
 
-- Machine Learning and Deep Learning
-- Natural Language Processing(NLP) and Computer Vision(CV)
-- Quantum Key Distribution (QKD) and Secure Communication  
-- Optical & RF Communication Systems  
-- Applied Mathematics and Signal Processing  
-- Scientific Research and Innovation
+Undergraduate Researcher
+Bharati Vidyapeeth’s College of Engineering | Jul 2025 – Present
 
----
+Developed BB84-based Alice–Bob–Eve system models for Free-Space Optical (FSO) channels
 
-## Current Objectives
+Simulated end-to-end secure key generation under channel loss and noise
 
-- Apply ML models to solve practical problems in electronic and communication systems  
-- Develop academic depth in AI and its cross-domain applications  
-- Contribute to ongoing and future research publications  
-- Build robust DSA proficiency for competitive programming and engineering logic
+Investigating ML-assisted adaptive RF–FSO switching for dynamic link optimization
+
+
 
 ---
 
-## Contact
+Publications
 
-- **Email:** anandambastha72@gmail.com  
-- **LinkedIn:** [linkedin.com/in/anandkumar](https://www.linkedin.com/in/anand-kumar05)  
-- **GitHub:** [github.com/anandambastha](https://github.com/Anand-Ambastha)
-<!---
-Anand-Ambastha/Anand-Ambastha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Design and Simulation of a Decoy-State BB84 Satellite QKD Constellation
+Springer — International Journal of Information Technology (Q1, Scopus)
+First Author
+https://doi.org/10.1007/s41870-025-02860-y
+
+Book Chapter — Quantum Communication & QKD
+CRC Press (Taylor & Francis)
+
+Summary
+
+Total Research Works: 6
+
+Published / Accepted: 5
+
+Under Review: 1
+
+
+
+---
+
+Selected Work
+
+AI-Driven Paddy Microclimate Stress Classifier
+
+Hierarchical BiLSTM–LSTM architecture
+
+LOLO-based geographic generalization
+
+
+VeriSure AI — Document Reasoning System
+
+Dense vector retrieval using FAISS + transformer embeddings
+
+Structured inference pipeline for policy reasoning
+
+
+VibeSense — Visual Intelligence Pipeline
+
+Multi-stage pipeline using YOLOv8 + CLIP for semantic tagging
+
+
+DeepSpeak — Personality Reconstruction System
+
+Multi-modal modeling integrating NLP, CV, and speech signals
+
+
+
+---
+
+Technical Expertise
+
+Programming & Systems
+
+Python • C • C++
+
+Machine Learning
+
+PyTorch • scikit-learn • NumPy • Pandas
+LSTM/BiLSTM • CLIP • YOLOv8 • FAISS
+
+Communication & Simulation
+
+OptiSystem • OpenCV • FFmpeg
+
+Research Tools
+
+LaTeX (IEEE) • Git • GitHub
+
+
+---
+
+Methodology
+
+Physics-informed modeling combined with data-driven approaches
+
+Emphasis on system-level validation and reproducibility
+
+Focus on robustness under uncertainty and environmental variability
+
+
+
+---
+
+Leadership
+
+Vice President — Optica Student Chapter (BVP)
+
+
+
+---
+
+Contact
+
+Email: anandambastha72@gmail.com
+
+LinkedIn: https://linkedin.com/in/anand-kumar05
+
+
+
+---
+
+<p align="center">
+  <i>Focused on advancing communication system modeling beyond idealized assumptions.</i>
+</p>
