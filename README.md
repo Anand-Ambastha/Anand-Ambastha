@@ -6,15 +6,14 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════╗
-║                                                                      ║
-║     A N A N D   A M B A S T H A   ( A n a n d   K u m a r )          ║
-║                                                                      ║
-║   Undergraduate Researcher  ·  B.Tech ECE  ·  GGSIPU  ·  2024–28     ║
-║                                                                      ║
-╚═══════════════════════════════════════════════════════════╝
+                                   ╔═══════════════════════════════════════════════════════════════════════╗
+                                   ║                                                                       ║
+                                   ║     A N A N D   A M B A S T H A   ( A n a n d   K u m a r )           ║
+                                   ║                                                                       ║
+                                   ║   Undergraduate Researcher  ·  B.Tech ECE  ·  GGSIPU  ·  2024–28      ║
+                                   ║                                                                       ║
+                                   ╚═══════════════════════════════════════════════════════════════════════╝
 
-<div align="center">
 ```
 
 ### Quantum Communication · Free-Space Optical Systems · AI for Physical Modeling
