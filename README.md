@@ -13,6 +13,8 @@
 ║   Undergraduate Researcher  ·  B.Tech ECE  ·  GGSIPU  ·  2024–28     ║
 ║                                                                      ║
 ╚═══════════════════════════════════════════════════════════╝
+
+<div align="center">
 ```
 
 ### Quantum Communication · Free-Space Optical Systems · AI for Physical Modeling
