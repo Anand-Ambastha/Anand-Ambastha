@@ -492,13 +492,14 @@ contact = {
 }
 ```
 📨 Open to research collaborations, manuscript co-authorship, and internship discussions.
-�
+
 
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   "The goal is not to simulate a perfect channel.                            ║
-║    The goal is to simulate the one that actually exists."                    ║
-║                                                                              ║
+║                                                                  ║
+║   "The goal is not to simulate a perfect channel.                ║
+║    The goal is to simulate the one that actually exists."        ║
+║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
+
 B.Tech ECE · GGSIPU · New Delhi · 2024–2028
 6 research works · Springer Q1 · CRC Press · Optica VP
