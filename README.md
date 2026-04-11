@@ -187,17 +187,6 @@ Technical chapter covering the theoretical foundations of Quantum Cryptography, 
 
 ---
 
-### 📙 Additional Works
-
-| # | Domain | Venue | Status |
-|---|--------|-------|--------|
-| 3 | QKD / Quantum Communication | — | ✅ Published / Accepted |
-| 4 | QKD / Quantum Communication | — | ✅ Published / Accepted |
-| 5 | QKD / Quantum Communication | — | ✅ Published / Accepted |
-| 6 | Ongoing research manuscript | — | 🔄 Under Review |
-
----
-
 ## `> selected_projects`
 
 ### 🌾 AI-Driven Paddy Microclimate Stress Classifier
@@ -382,31 +371,6 @@ Nov      ├── [PUBLISHED] Decoy-State BB84 Satellite QKD
          └── [ONGOING] Climatology-Aware Quantum Channel (CAQC)
                   ML-assisted RF–FSO adaptive switching
 ```
-
----
-
-## `> ground_stations`
-
-Indian ground station sites studied in satellite QKD constellation research:
-
-```
-         ·  Dehradun   30.3°N · 78.0°E   Himalayan foothills
-              │
-   ──────────┼────────────────────────────────────────────────
-              │
-   Hanle ────┤  32.8°N · 78.9°E          Highest optical site
-   (Ladakh)  │  (4500 m ASL)             Lowest turbulence Cn²
-              │
-         ·  Shillong   25.6°N · 91.9°E   NE monsoon corridor
-              │
-         ·  Mt. Abu    24.6°N · 72.7°E   Western India elevation
-              │
-         ·  Kodaikanal 10.2°N · 77.5°E   South India high-altitude
-```
-
-All sites modeled with **elevation-based QBER filtering** and **seasonal atmospheric loss profiles**.
-
----
 
 ## `> coursework`
 
