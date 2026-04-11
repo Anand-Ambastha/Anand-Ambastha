@@ -22,7 +22,7 @@
 
 [![Email](https://img.shields.io/badge/📧_Email-anandambastha72%40gmail.com-1a1a2e?style=for-the-badge)](mailto:anandambastha72@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-kumar05)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anand-kumar05)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anand-Ambastha)
 
 <br/>
 
