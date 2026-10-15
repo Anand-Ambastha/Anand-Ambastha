@@ -11,7 +11,8 @@
 [Blog](https://anand-ambastha.github.io/blog/) ·
 [CV](https://anand-ambastha.github.io/cv/) ·
 [LinkedIn](https://www.linkedin.com/in/anand-kumar05/) ·
-[Google Scholar](https://scholar.google.com/citations?user=f2o0JekAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=f2o0JekAAAAJ) ·
+[ResearchGate](https://www.researchgate.net/profile/Anand-Kumar-315)
 
 📧 anandambastha72@gmail.com  
 📧 anand.kumar-coend@bvp.edu.in
