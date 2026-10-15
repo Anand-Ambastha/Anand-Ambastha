@@ -162,7 +162,7 @@ Undergraduate researcher in New Delhi working on Quantum Key Distribution (QKD),
 <details>
 <summary><b>📚 Publications</b></summary>
 
-Full list with links: [anand-ambastha.github.io/publications](https://anand-ambastha.github.io/publications/) · [Google Scholar](https://scholar.google.com/citations?user=f2o0JekAAAAJ)
+Full list with links: [anand-ambastha.github.io/publications](https://anand-ambastha.github.io/publications/)
 
 ### Journal Article
 
