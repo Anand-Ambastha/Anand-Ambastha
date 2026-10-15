@@ -10,7 +10,8 @@
 [Publications](https://anand-ambastha.github.io/publications/) ·
 [Blog](https://anand-ambastha.github.io/blog/) ·
 [CV](https://anand-ambastha.github.io/cv/) ·
-[LinkedIn](https://www.linkedin.com/in/anand-kumar05/)
+[LinkedIn](https://www.linkedin.com/in/anand-kumar05/) ·
+[Google Scholar](https://scholar.google.com/citations?user=f2o0JekAAAAJ)
 
 📧 anandambastha72@gmail.com  
 📧 anand.kumar-coend@bvp.edu.in
@@ -161,7 +162,7 @@ Undergraduate researcher in New Delhi working on Quantum Key Distribution (QKD),
 <details>
 <summary><b>📚 Publications</b></summary>
 
-Full list with links: [anand-ambastha.github.io/publications](https://anand-ambastha.github.io/publications/)
+Full list with links: [anand-ambastha.github.io/publications](https://anand-ambastha.github.io/publications/) · [Google Scholar](https://scholar.google.com/citations?user=f2o0JekAAAAJ)
 
 ### Journal Article
 
